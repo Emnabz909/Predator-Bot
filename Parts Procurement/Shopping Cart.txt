@@ -1,0 +1,36 @@
+Parts to be ordered:
+
+Capacitor(s)
+2X - 22uF (polarized)
+https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A226MQQNNNE/3886758
+4X - 0.1uF
+https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874
+2X - 22pF
+https://www.digikey.com/en/products/detail/kemet/C0805C220J5GAC7800/411112
+
+Resistor(s)
+2X - 30K
+https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73B2ATTD303J/10236581
+5X - 10k
+https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD10K0/2240262
+
+1X - Crystal Oscillator 32.768 kHz with 22pF load capacitance
+https://www.digikey.com/en/products/detail/epson/C-005R-32-7680K-D-PB-FREE/7725539?s=N4IgjCBcoMwKxVAYygMwIYBsDOBTANCAPZQDa4ALAJwwDsEAuoQA4AuUIAyqwE4CWAOwDmIAL6EAbFUQgUkDDgLEyICmDAAOKrRBMQbDt37CxhAExg4ABhlyFeQiUjkYZgHS0JGgAQBrABIAXros7JAgAKoCfKwA8qgAsrjo2ACuPLhi4iBmKgDCPACe2KxY3rHYSHyYmOisRDy6okA
+
+1X - BN005 Chip
+https://www.digikey.com/en/products/detail/bosch-sensortec/BNO055/6136301
+
+2X - Motor Driver Chips
+https://www.digikey.com/en/products/detail/texas-instruments/DRV8871DDA/6110574
+
+Screw Terminals
+4X - 2 pin
+https://www.digikey.com/en/products/detail/phoenix-contact/1725656/267462
+1X - 3 pin
+https://www.digikey.com/en/products/detail/phoenix-contact/1725669/267463
+2X - 4 pin
+https://www.digikey.com/en/products/detail/phoenix-contact/1725672/267464
+
+Spare Soldering Pin Headers?
+?X - 18 Pins
+
